@@ -1,0 +1,55 @@
+
+
+.nave-bar {
+  padding-top: 1em;
+}
+
+.img {
+  width: 600;
+  height: 200;
+      }
+
+.tex {
+  text-align: center;
+  text-transform: uppercase;
+  
+}
+
+.br {
+  color: yellow;
+  border-bottom: 6px solid yellow;
+}
+
+
+.text-2 {
+  color:black;
+  text-align: center;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+.rds
+  {height: 70px;
+  }
+
+.card {
+  height: 80;
+  background-color: snow;
+  border-color: yellow;
+  border-radius: 22px;
+  }
+
+.divisor-tit {
+  color: snow;
+  }
+
+ .bt {
+  font-size: 2px;
+  border-radius: 12px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 100%; 
+ }
